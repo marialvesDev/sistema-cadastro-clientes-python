@@ -1,2 +1,13 @@
-# sistema-cadastro-clientes-python
-Projeto de portfólio desenvolvido em Python para demonstrar conhecimentos em lógica de programação, estruturas de repetição, funções e manipulação de dados.
+# Sistema de Cadastro de Clientes
+
+Projeto desenvolvido em Python para praticar:
+- Funções
+- Listas
+- Dicionários
+- Estruturas de repetição
+- Menus interativos
+
+Funcionalidades:
+- Cadastrar clientes
+- Listar clientes
+- Encerrar sistema
